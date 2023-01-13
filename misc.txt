@@ -1,0 +1,4 @@
+MTA2MzE2OTYyOTQ0ODU4MTIwMQ.GgPhgk.HzKbiraUGHhI4gr3eOwVSpEWZRfIbT84N3wIBs: token 
+https://discord.com/api/oauth2/authorize?client_id=1063169629448581201&permissions=534723950656&scope=bot :: url
+
+Atlassian JIRA, Git Svn, Java Enterprise Edition, Maven, Microservice Framework, Microsoft Power BI, PHP (Programming Language), Python, REST Architecture, Software Documentation, Spring Framework, Structured Query Language (SQL) Development
